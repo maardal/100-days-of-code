@@ -1,30 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Template
+### Day X: MONTH DAY, YEAR
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: ...
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**: [Link Name](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+## Log
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: February 16, 2026
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**:
+- Add Valorant Premier Season performance to achievements on Premier Team website.
+- Fix bug where color on nav items werent shown.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** I struggled getting started, getting lost on the phone and other stuff. However, when I started it went smoothly. I started easy on a familiar hobby project that had a small bug I could fix. 
+
+**Link to work:** 
+- [Add Premier Season - Commit 34f0be0 (Private Repo)](https://github.com/maardal/klitical_hit/commit/34f0be0cab6d2b06bf27953cb758346bcc695119)
+- [Bugfix: Nav Item colors not showing - Commit 4887c98 (Private Repo)](https://github.com/maardal/klitical_hit/commit/4887c98404ee1ec6b4344a31a8ab08f870bc3fb0)
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
