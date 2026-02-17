@@ -21,7 +21,16 @@
 
 **Link to work:** 
 - [Add Premier Season - Commit 34f0be0 (Private Repo)](https://github.com/maardal/klitical_hit/commit/34f0be0cab6d2b06bf27953cb758346bcc695119)
-- [Bugfix: Nav Item colors not showing - Commit 4887c98 (Private Repo)](https://github.com/maardal/klitical_hit/commit/4887c98404ee1ec6b4344a31a8ab08f870bc3fb0)
+- [Bugfix: Nav Item colors not showing - Commit 4887c98 (Private Repo)](https://github.com/maardal/klitical_hit/commit/4887c98404ee1ec6b4344a31a8ab08f870bc3fb0)  
+   
+<br>
 
+### Day 1: February 17, 2026
 
+**Today's Progress**:
+- Re-familiarize myself with an old hobby project.
+- Start on new feature. 
 
+**Thoughts**: I started on another project that yesterday, because this had more work to do. It was a very slow start, and I got a bit demotivated because I had forgot a lot. Stopped because I had a meeting. Started up again some time before bed, and then it went a bit easier. I could write code kinda freely without checking documentation or using AI.
+
+**Link(s) to work**: [List out loved ones, create button shell to add hangout - Commit f28f18b](https://github.com/maardal/i-miss-my-friends/commit/f28f18baf84d2f4e967cae7f7ffedd0d169096ed)
