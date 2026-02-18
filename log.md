@@ -34,3 +34,16 @@
 **Thoughts**: I started on another project that yesterday, because this had more work to do. It was a very slow start, and I got a bit demotivated because I had forgot a lot. Stopped because I had a meeting. Started up again some time before bed, and then it went a bit easier. I could write code kinda freely without checking documentation or using AI.
 
 **Link(s) to work**: [List out loved ones, create button shell to add hangout - Commit f28f18b](https://github.com/maardal/i-miss-my-friends/commit/f28f18baf84d2f4e967cae7f7ffedd0d169096ed)
+   
+<br>
+
+### Day 2: February 18, 2026
+
+**Today's Progress**:
+- Contined work on hobby project for keeping track of when I last hung out with friends or family.
+- Finished first workable implementation of adding a hangout for loved one.
+
+**Thoughts**: Motivation was a lot higher today, as I decided to be kind on myself and not overload my day with stuff to do. Having a workable way to add hangouts was great and gave me a dopamin boost. Makes me more motivated to tighten up the quality of the code on both frontend and backend. Might work more on it later today, but then will count that work for tommorow, as I've already written this log.
+
+**Link(s) to work**: [Create hangout happy path implemented - Commit affbecf](https://github.com/maardal/i-miss-my-friends/commit/affbecf50711efd45b037f0ab907c746090ab844)
+
