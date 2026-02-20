@@ -46,4 +46,15 @@
 **Thoughts**: Motivation was a lot higher today, as I decided to be kind on myself and not overload my day with stuff to do. Having a workable way to add hangouts was great and gave me a dopamin boost. Makes me more motivated to tighten up the quality of the code on both frontend and backend. Might work more on it later today, but then will count that work for tommorow, as I've already written this log.
 
 **Link(s) to work**: [Create hangout happy path implemented - Commit affbecf](https://github.com/maardal/i-miss-my-friends/commit/affbecf50711efd45b037f0ab907c746090ab844)
+   
+<br>
 
+### Day 3: February 19, 2026
+
+**Today's Progress**:
+- Contined work on hobby project for keeping track of when I last hung out with friends or family.
+- Created first draft of a store for an entity.
+
+**Thoughts**: Struggled with starting today, even tho I felt motivated throughout the day. Ended up starting close to midnight. Gonna try to not get so distracted tommorow.
+
+**Link(s) to work**: [Create hangout store - Commit bf87822](https://github.com/maardal/i-miss-my-friends/commit/bf87822e77278e4e54c8150b77503923ba307f22)
