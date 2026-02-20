@@ -58,3 +58,18 @@
 **Thoughts**: Struggled with starting today, even tho I felt motivated throughout the day. Ended up starting close to midnight. Gonna try to not get so distracted tommorow.
 
 **Link(s) to work**: [Create hangout store - Commit bf87822](https://github.com/maardal/i-miss-my-friends/commit/bf87822e77278e4e54c8150b77503923ba307f22)
+   
+<br>
+
+### Day 4: February 20, 2026
+
+**Today's Progress**:
+- Contined work on hobby project for keeping track of when I last hung out with friends or family.
+- Did a small refactor
+
+**Thoughts**: Same story as yesterday. Struggled with starting today, even tho I felt motivated throughout the day. Wanna try working earlier.
+
+**Link(s) to work**: [Small refactor, move adding hangout into own component - Commit 2537945](https://github.com/maardal/i-miss-my-friends/commit/253794532902f87859a3a2e3ec94e6d357896bb7)
+
+
+
