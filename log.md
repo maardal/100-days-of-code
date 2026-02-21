@@ -70,6 +70,17 @@
 **Thoughts**: Same story as yesterday. Struggled with starting today, even tho I felt motivated throughout the day. Wanna try working earlier.
 
 **Link(s) to work**: [Small refactor, move adding hangout into own component - Commit 2537945](https://github.com/maardal/i-miss-my-friends/commit/253794532902f87859a3a2e3ec94e6d357896bb7)
+   
+<br>
 
+### Day 5: February 21, 2026
+
+**Today's Progress**:
+- Contined work on hobby project for keeping track of when I last hung out with friends or family.
+- Added a stateful store for a 2nd entity. 
+
+**Thoughts**: Started late again, but today it was easier to start. Also the code felt easier to write and to reason about. The code came more naturally to me, and I didnt have to think or remember of what to write, it just came naturally.
+
+**Link(s) to work**: [Add lovedone store - Commit 186c325](https://github.com/maardal/i-miss-my-friends/commit/186c325991bacce9a834d8b475570b37b6c5b457)
 
 
