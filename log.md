@@ -82,5 +82,26 @@
 **Thoughts**: Started late again, but today it was easier to start. Also the code felt easier to write and to reason about. The code came more naturally to me, and I didnt have to think or remember of what to write, it just came naturally.
 
 **Link(s) to work**: [Add lovedone store - Commit 186c325](https://github.com/maardal/i-miss-my-friends/commit/186c325991bacce9a834d8b475570b37b6c5b457)
+   
+<br>
+
+### Day 6: February 22, 2026
+
+**Today's Progress**:
+NADA - I WAS NOT FEELING WELL.
+
+**Thoughts**: RIP, was ill.
+   
+<br>
+
+### Day 7: February 23, 2026
+
+**Today's Progress**:
+- Contined work on hobby website for Valorant Premier Team.
+- Reworked news article page to use Svelte Snippets for cleaner code.
+
+**Thoughts**: Great fun, was nice to just have a day where code was easy to write.
+
+**Link(s) to work**: [Rework news article site to use Snippets - Commit ffc1b64 (Private Repo)](https://github.com/maardal/klitical_hit/commit/ffc1b645093f5a5d6f011dd8836f6a9d810f6e39)
 
 
