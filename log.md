@@ -103,5 +103,18 @@ NADA - I WAS NOT FEELING WELL.
 **Thoughts**: Great fun, was nice to just have a day where code was easy to write.
 
 **Link(s) to work**: [Rework news article site to use Snippets - Commit ffc1b64 (Private Repo)](https://github.com/maardal/klitical_hit/commit/ffc1b645093f5a5d6f011dd8836f6a9d810f6e39)
+   
+<br>
 
+### Day 7: February 24, 2026
+
+**Today's Progress**:
+- Contined work on hobby website for Valorant Premier Team.
+- Added new fake news article.
+
+**Thoughts**: Managed to work longer today, woohoo!
+
+**Link(s) to work**:
+- [Golf Getaway Article - Part 1 - Commit 104d5fc (Private Repo)](https://github.com/maardal/klitical_hit/commit/104d5fc4bbe46ee0aae9f8a8bd694f72bd172dc7)
+- [Golf Getaway Article - Part 2 - Commit 9d5fbe0 (Private Repo)](https://github.com/maardal/klitical_hit/commit/9d5fbe03766d7f456e69618c7b61660e8db9fb34)
 
