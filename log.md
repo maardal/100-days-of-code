@@ -117,4 +117,30 @@ NADA - I WAS NOT FEELING WELL.
 **Link(s) to work**:
 - [Golf Getaway Article - Part 1 - Commit 104d5fc (Private Repo)](https://github.com/maardal/klitical_hit/commit/104d5fc4bbe46ee0aae9f8a8bd694f72bd172dc7)
 - [Golf Getaway Article - Part 2 - Commit 9d5fbe0 (Private Repo)](https://github.com/maardal/klitical_hit/commit/9d5fbe03766d7f456e69618c7b61660e8db9fb34)
+  
+<br>
 
+### Day 9: February 25, 2026
+
+**Today's Progress**:
+- Contined work on hobby project for keeping track of when I last hung out with friends or family.
+- When adding a hangout, the list of friends now updates with the latest updated friend, with the newest hangout.
+
+**Thoughts**: Rough day.
+
+**Link(s) to work**:
+- [Ensure reactive update of friendslist - Commit c037448](https://github.com/maardal/i-miss-my-friends/commit/c0374489519c54043a308b57058f7729c28ffed9)
+
+   
+<br>
+
+### Day 10: February 26, 2026
+
+**Today's Progress**:
+- Contined work on hobby website for Valorant Premier Team.
+- Add loved one from frontend now possible.
+
+**Thoughts**: Kinda hard to hold focus, but it was fun coding.
+
+**Link(s) to work**:
+- [Add lovedone from frontend - Commit 2462f69](https://github.com/maardal/i-miss-my-friends/commit/2462f6998d1a9de7f8b30bf6fdbe262e7b68f32c)
