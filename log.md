@@ -137,10 +137,23 @@ NADA - I WAS NOT FEELING WELL.
 ### Day 10: February 26, 2026
 
 **Today's Progress**:
-- Contined work on hobby website for Valorant Premier Team.
+- Contined work on hobby project for keeping track of when I last hung out with friends or family.
 - Add loved one from frontend now possible.
 
 **Thoughts**: Kinda hard to hold focus, but it was fun coding.
 
 **Link(s) to work**:
 - [Add lovedone from frontend - Commit 2462f69](https://github.com/maardal/i-miss-my-friends/commit/2462f6998d1a9de7f8b30bf6fdbe262e7b68f32c)
+   
+<br>
+
+### Day 11: February 27, 2026
+
+**Today's Progress**:
+- Contined work on hobby project for keeping track of when I last hung out with friends or family.
+- Ensured that list of lovedones is reactive.
+
+**Thoughts**: Super tired when I started, so was a victory just starting!
+
+**Link(s) to work**:
+- [Ensure reactivity when adding new lovedOne - Commit 488fff7](https://github.com/maardal/i-miss-my-friends/commit/488fff76f2f1d0523664b33ec9c7d700bc2abad8)
